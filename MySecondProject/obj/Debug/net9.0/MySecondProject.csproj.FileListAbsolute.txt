@@ -1,0 +1,14 @@
+C:\Users\Asus\Documents\MagsinoIII,MichaelM\MySecondProject\bin\Debug\net9.0\MySecondProject.exe
+C:\Users\Asus\Documents\MagsinoIII,MichaelM\MySecondProject\bin\Debug\net9.0\MySecondProject.deps.json
+C:\Users\Asus\Documents\MagsinoIII,MichaelM\MySecondProject\bin\Debug\net9.0\MySecondProject.runtimeconfig.json
+C:\Users\Asus\Documents\MagsinoIII,MichaelM\MySecondProject\bin\Debug\net9.0\MySecondProject.dll
+C:\Users\Asus\Documents\MagsinoIII,MichaelM\MySecondProject\bin\Debug\net9.0\MySecondProject.pdb
+C:\Users\Asus\Documents\MagsinoIII,MichaelM\MySecondProject\obj\Debug\net9.0\MySecondProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Documents\MagsinoIII,MichaelM\MySecondProject\obj\Debug\net9.0\MySecondProject.AssemblyInfoInputs.cache
+C:\Users\Asus\Documents\MagsinoIII,MichaelM\MySecondProject\obj\Debug\net9.0\MySecondProject.AssemblyInfo.cs
+C:\Users\Asus\Documents\MagsinoIII,MichaelM\MySecondProject\obj\Debug\net9.0\MySecondProject.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\MagsinoIII,MichaelM\MySecondProject\obj\Debug\net9.0\MySecondProject.dll
+C:\Users\Asus\Documents\MagsinoIII,MichaelM\MySecondProject\obj\Debug\net9.0\refint\MySecondProject.dll
+C:\Users\Asus\Documents\MagsinoIII,MichaelM\MySecondProject\obj\Debug\net9.0\MySecondProject.pdb
+C:\Users\Asus\Documents\MagsinoIII,MichaelM\MySecondProject\obj\Debug\net9.0\MySecondProject.genruntimeconfig.cache
+C:\Users\Asus\Documents\MagsinoIII,MichaelM\MySecondProject\obj\Debug\net9.0\ref\MySecondProject.dll

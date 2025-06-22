@@ -1,0 +1,14 @@
+C:\Users\Asus\Documents\MagsinoIII,MichaelM\MyFirstProgram\bin\Debug\net9.0\MyFirstProgram.exe
+C:\Users\Asus\Documents\MagsinoIII,MichaelM\MyFirstProgram\bin\Debug\net9.0\MyFirstProgram.deps.json
+C:\Users\Asus\Documents\MagsinoIII,MichaelM\MyFirstProgram\bin\Debug\net9.0\MyFirstProgram.runtimeconfig.json
+C:\Users\Asus\Documents\MagsinoIII,MichaelM\MyFirstProgram\bin\Debug\net9.0\MyFirstProgram.dll
+C:\Users\Asus\Documents\MagsinoIII,MichaelM\MyFirstProgram\bin\Debug\net9.0\MyFirstProgram.pdb
+C:\Users\Asus\Documents\MagsinoIII,MichaelM\MyFirstProgram\obj\Debug\net9.0\MyFirstProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Documents\MagsinoIII,MichaelM\MyFirstProgram\obj\Debug\net9.0\MyFirstProgram.AssemblyInfoInputs.cache
+C:\Users\Asus\Documents\MagsinoIII,MichaelM\MyFirstProgram\obj\Debug\net9.0\MyFirstProgram.AssemblyInfo.cs
+C:\Users\Asus\Documents\MagsinoIII,MichaelM\MyFirstProgram\obj\Debug\net9.0\MyFirstProgram.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\MagsinoIII,MichaelM\MyFirstProgram\obj\Debug\net9.0\MyFirstProgram.dll
+C:\Users\Asus\Documents\MagsinoIII,MichaelM\MyFirstProgram\obj\Debug\net9.0\refint\MyFirstProgram.dll
+C:\Users\Asus\Documents\MagsinoIII,MichaelM\MyFirstProgram\obj\Debug\net9.0\MyFirstProgram.pdb
+C:\Users\Asus\Documents\MagsinoIII,MichaelM\MyFirstProgram\obj\Debug\net9.0\MyFirstProgram.genruntimeconfig.cache
+C:\Users\Asus\Documents\MagsinoIII,MichaelM\MyFirstProgram\obj\Debug\net9.0\ref\MyFirstProgram.dll
